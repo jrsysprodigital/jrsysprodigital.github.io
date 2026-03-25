@@ -57,9 +57,17 @@
   main .main-content .text h2, .main-content .techs h2 {
     font-size: 1.8em;
   }
-
+  
   main figure img {
     width: 250px;
     height: 250px;
   }
+footer span {
+    font-size: 0.3em;
+    font-weight: 100;
+    color: aqua;
+    cursor: pointer;
 }
+  
+}
+  
