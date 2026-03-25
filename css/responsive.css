@@ -26,7 +26,12 @@
   main .techs .cards-container, .main-content .text p {
     margin-top: 32px;
   }
-}
+footer span {
+    font-size: 0.3em;
+    font-weight: 100;
+    color: aqua;
+    cursor: pointer;
+  }
 
 @media (max-width: 700px) {
   header {
@@ -68,6 +73,5 @@ footer span {
     color: aqua;
     cursor: pointer;
 }
-  
 }
   
