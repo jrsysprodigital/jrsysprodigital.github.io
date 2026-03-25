@@ -63,8 +63,8 @@
     height: 250px;
   }
 footer span {
-    font-size: 0.3em;
-    font-weight: 100;
+    font-size: 0.5em;
+    font-weight: 150;
     color: aqua;
     cursor: pointer;
 }
